@@ -4,10 +4,10 @@
 I build **systems**, **models**, and occasionally **good code**.
 
 🔧 **What I love working on**  
+- Agentic AI pipelines + LLM reasoning systems
 - Distributed systems & databases (Dynamo-style KV, consistency models)  
+- Real-time telemetry, full-stack apps, and Web3 integrations
 - Deep Reinforcement Learning for robotics & navigation  
-- Agentic AI pipelines + LLM reasoning systems  
-- Real-time telemetry, full-stack apps, and Web3 integrations  
 
 💡 **If it's complex, I probably enjoy building it.**
 
@@ -15,9 +15,9 @@ I build **systems**, **models**, and occasionally **good code**.
 
 ### 🧠 Current Work
 - 🧩 Emotional reasoning dataset pipeline (EmoBench-inspired)  
-- 🤖 DRL-based UGV path planning (TD3, DQN variants)  
 - ⚡ Distributed KV Store with quorum consistency & commit logs  
 - 📈 Real-time cross-platform telemetry dashboard (C# + Avalonia)
+- 🤖 DRL-based UGV path planning (TD3, DQN variants)  
 
 ---
 
@@ -31,13 +31,7 @@ I build **systems**, **models**, and occasionally **good code**.
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LaukikPatade&show_icons=true&theme=github_dark" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaukikPatade&layout=compact&theme=github_dark" />
-</p>
 
----
 
 ### 🌐 Connect With Me
 - 💼 LinkedIn: *add your link here*  
