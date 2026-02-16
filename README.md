@@ -34,7 +34,7 @@ I build **systems**, **models**, and occasionally **good code**.
 
 
 ### 🌐 Connect With Me
-- 💼 LinkedIn: *add your link here*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/laukik-patade-283982214/*  
 - 🌍 Portfolio: *https://laukikpatade.github.io/Portfolio/*  
 
 ---
